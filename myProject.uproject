@@ -24,12 +24,12 @@
 		},
 		{
 			"Name": "SCUE4",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/cff7ca410375488fb0d13221b7446041"
 		},
 		{
 			"Name": "ST_ExportPNG",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/230db584ce5749f284945d3286c745fa"
 		},
 		{
@@ -63,12 +63,12 @@
 		},
 		{
 			"Name": "NetDebugStats",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/61f97c8434374b99979c417944ac3678"
 		},
 		{
 			"Name": "DiscordMessenger",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/2a1ca175da3e40e8bd54c7d00d135c1b"
 		},
 		{
