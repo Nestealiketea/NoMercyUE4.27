@@ -90,6 +90,10 @@
 		{
 			"Name": "SteamAudio",
 			"Enabled": true
+		},
+		{
+			"Name": "FullBodyIK",
+			"Enabled": true
 		}
 	]
 }
