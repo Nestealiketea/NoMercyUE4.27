@@ -36,25 +36,25 @@
 "../../Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 35
 "../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uasset" 36
 "../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 37
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 38
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 39
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 40
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 41
-"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 42
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 38
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 39
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 40
+"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 41
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 42
 "../../Plugins/FX/Niagara/Content/Modules/Update/Forces/V2/PointAttractionForce.uasset" 43
 "../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 44
 "../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 45
 "../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 46
-"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 47
-"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 48
-"../../Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 49
+"../../Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 47
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 48
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 49
 "../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 50
 "../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 51
 "../../Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 52
 "../../Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 53
 "../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 54
-"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 55
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 56
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 55
+"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 56
 "../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 57
 "../../Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uasset" 58
 "../../Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Float.uasset" 59
@@ -235,267 +235,277 @@
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 234
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 235
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 236
-"../../Plugins/Experimental/ControlRig/Content/M_Manip.uasset" 237
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 238
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset" 239
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset" 240
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset" 241
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset" 242
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset" 243
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset" 244
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset" 245
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset" 246
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset" 247
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset" 248
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset" 249
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_solid.uasset" 250
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset" 251
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset" 252
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset" 253
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset" 254
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset" 255
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset" 256
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset" 257
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset" 258
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset" 259
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset" 260
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset" 261
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset" 262
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset" 263
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset" 264
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset" 265
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset" 266
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset" 267
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset" 268
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset" 269
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset" 270
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset" 271
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset" 272
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset" 273
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset" 274
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset" 275
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset" 276
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset" 277
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 278
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 279
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 280
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 281
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 282
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 283
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 284
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 285
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 286
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 287
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 288
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 289
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 290
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 291
-"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 292
-"../../Plugins/Experimental/ControlRig/Content/Controls/DefaultGizmoLibrary.uasset" 293
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 294
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 295
-"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 296
-"../../Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset" 297
-"../../../Engine/Content/EngineMaterials/HairDebugColor.uasset" 298
-"../../../Engine/Content/EngineMaterials/HairColorMap.uasset" 299
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 300
-"../../Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset" 301
-"../../Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uasset" 302
-"../../Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset" 303
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 237
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 238
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 239
+"../../Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset" 240
+"../../../Engine/Content/EngineMaterials/HairDebugColor.uasset" 241
+"../../../Engine/Content/EngineMaterials/HairColorMap.uasset" 242
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 243
+"../../Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset" 244
+"../../Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uasset" 245
+"../../Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset" 246
+"../../Plugins/Experimental/ControlRig/Content/M_Manip.uasset" 247
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 248
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset" 249
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset" 250
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset" 251
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset" 252
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset" 253
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset" 254
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset" 255
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset" 256
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset" 257
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset" 258
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset" 259
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Box_solid.uasset" 260
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset" 261
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset" 262
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset" 263
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset" 264
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset" 265
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset" 266
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset" 267
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset" 268
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset" 269
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset" 270
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset" 271
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset" 272
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset" 273
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset" 274
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset" 275
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset" 276
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset" 277
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset" 278
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset" 279
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset" 280
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset" 281
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset" 282
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset" 283
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset" 284
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset" 285
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset" 286
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset" 287
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 288
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 289
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 290
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 291
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 292
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 293
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 294
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 295
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 296
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 297
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 298
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 299
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 300
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 301
+"../../Plugins/Experimental/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 302
+"../../Plugins/Experimental/ControlRig/Content/Controls/DefaultGizmoLibrary.uasset" 303
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 304
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 305
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 306
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 307
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 308
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 309
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 310
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 311
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 312
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 313
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 314
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 315
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 316
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 317
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 318
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Start/Maps/Start_Map_BuiltData.uasset" 319
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Start/Blueprints/Camera_Start_Pawn.uasset" 320
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Start/Blueprints/myGameMode_Start.uasset" 321
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Start/StartSequence.uasset" 322
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Start/Blueprints/Loading_HUD.uasset" 323
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Server/Blueprints/Create_SessionInfo_HUD.uasset" 324
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Start/Blueprints/Start_HUD.uasset" 325
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 326
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Physics/Part2_PHY.uasset" 327
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Physics/Part1_PHY.uasset" 328
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Physics/Head_PHY.uasset" 329
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Physics/Body_PHY.uasset" 330
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 331
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Textures/T_UE4Logo_N.uasset" 332
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Textures/T_UE4Logo_Mask.uasset" 333
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Textures/T_ML_Rubber_Blue_01_N.uasset" 334
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Textures/T_ML_Rubber_Blue_01_D.uasset" 335
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Textures/T_ML_Aluminum01_N.uasset" 336
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Textures/T_ML_Aluminum01.uasset" 337
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Textures/T_Male_N.uasset" 338
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Textures/T_Male_Mask.uasset" 339
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 340
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 341
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 342
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Materials/ML_SoftMetal_UE4.uasset" 343
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Materials/ML_Plastic_Shiny_Beige_LOGO.uasset" 344
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Materials/ML_Plastic_Shiny_Beige.uasset" 345
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Materials/ML_GlossyBlack_Latex_UE4.uasset" 346
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Materials/M_Male_Body.uasset" 347
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Materials/M_UE4Man_ChestLogo.uasset" 348
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Mesh/SK_Mannequin.uasset" 349
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Meshes/74U/AK74U_Physics.uasset" 350
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/Patterns/T_Chochip_Pattern.uasset" 351
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/74U/T_KA74U_NRM.uasset" 352
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/74U/T_KA74U_M_MSK.uasset" 353
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/74U/T_KA74U_ALB.uasset" 354
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Materials/Master_Material/M_Weapon_Master_USE.uasset" 355
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Materials/74U/AK74U_M.uasset" 356
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Meshes/74U/AK74U_Skeleton.uasset" 357
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Meshes/74U/AK74U_Mesh.uasset" 358
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 359
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 360
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Rifle/GunDown.uasset" 361
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Start/Blueprints/Character_Start_PAWN.uasset" 362
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Start/Maps/Start_Map.umap" 363
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Server/Maps/Server_Map_BuiltData.uasset" 364
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/WeaponeType_E.uasset" 365
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/BPI/PickUp_BPI.uasset" 366
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 367
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/PickUp_BaseV1/PickUp_BP.uasset" 368
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/BPI/Charcter_BPI.uasset" 369
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/BPI/Anim_BPI.uasset" 370
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Base/ThirdPersonJump_Start.uasset" 371
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/Concrete_Run_04.uasset" 372
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/Concrete_Run_03.uasset" 373
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/Concrete_Run_02.uasset" 374
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/Concrete_Run_01.uasset" 375
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/FootStepRun.uasset" 376
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_N_Run_F.uasset" 377
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_N_Run_B.uasset" 378
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_N_Run_LF.uasset" 379
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_N_Run_RF.uasset" 380
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_N_SecondaryMotion.uasset" 381
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/Concrete_Walk_05.uasset" 382
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/Concrete_Walk_04.uasset" 383
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/Concrete_Walk_03.uasset" 384
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/Concrete_Walk_02.uasset" 385
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/Concrete_Walk_01.uasset" 386
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/FootStepWalk.uasset" 387
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_N_Walk_B.uasset" 388
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_N_Walk_F.uasset" 389
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_N_Walk_LF.uasset" 390
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_N_Walk_RF.uasset" 391
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/BlendSpace/Idle_Move.uasset" 392
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Base/ThirdPersonJump_Loop.uasset" 393
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Base/ThirdPerson_Jump.uasset" 394
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_CLF_Walk_B.uasset" 395
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_CLF_Walk_F.uasset" 396
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_CLF_WalkPose.uasset" 397
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_CLF_Walk_R.uasset" 398
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_CLF_Walk_L.uasset" 399
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/BlendSpace/Idle_Crouch.uasset" 400
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Blueprints/Character_CtrlRig.uasset" 401
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Rifle/Locomotion/LS_Calm_Rifle_Pose.uasset" 402
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Rifle/Locomotion/LS_Calm_Rifle_CR_Pose.uasset" 403
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Rifle/Locomotion/LS_AIM_Rifle_Pose.uasset" 404
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Rifle/Locomotion/LS_AIM_Rifle_CR_Pose.uasset" 405
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/LS_AIM_Pistol_CR_Pose.uasset" 406
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/AIM/AIM_LS_CR_U.uasset" 407
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/AIM/AIM_LS_CR_D.uasset" 408
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/AIM/AIM_LS_CR_CC.uasset" 409
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/AIM/AIM_Pistol_CR_LS.uasset" 410
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/Pistol_Sprint_Pose.uasset" 411
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/Pistol_Hit_Aim.uasset" 412
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/Pistol_Hit.uasset" 413
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/Pistol_Crouch_Hit_Aim.uasset" 414
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/Pistol_Crouch_Hit.uasset" 415
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/LS_Calm_Pistol_Pose.uasset" 416
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/LS_Calm_Pistol_CR_Pose.uasset" 417
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/LS_AIM_Pistol_Pose.uasset" 418
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/Hit_Idle.uasset" 419
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/Crouch_Hit.uasset" 420
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Blueprints/Anim_Blueprints/Character_ABP.uasset" 421
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/HUD/Players_Informatio_HUD.uasset" 422
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/HUD/Exit_HUD.uasset" 423
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Server/Blueprints/myGameState.uasset" 424
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Blueprints/FC_SpeedAngle.uasset" 425
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Test_Content/Debugging_Camera.uasset" 426
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Textures/T_Smoke_SubUV_2x2_ALB.uasset" 427
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Materials/M_Smoke_MASTER.uasset" 428
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Emitters/P_SU_Rifle_Muzzleflash.uasset" 429
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Emitters/Ammunition/Textures/T_762x39_NRM.uasset" 430
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Emitters/Ammunition/Textures/T_762x39_ALB.uasset" 431
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Emitters/Ammunition/Textures/T_762x39_M_MSK.uasset" 432
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Emitters/Ammunition/Materials/M_762x39.uasset" 433
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Emitters/Ammunition/Mesh/SM_762x39_Empty.uasset" 434
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Emitters/P_AK74u_ShellEject.uasset" 435
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Textures/T_Muzzleflash_01_ALB.uasset" 436
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Textures/T_Muzzle_Warp_FMP.uasset" 437
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Materials/M_Muzzleflash_MASTER.uasset" 438
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Materials/M_Muzzleflash_01.uasset" 439
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 440
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 441
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Materials/M_Spark.uasset" 442
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Emitters/P_AK74u_Muzzleflash.uasset" 443
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/BPI/Controller_BPI.uasset" 444
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Sound/ak_su.uasset" 445
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/Accessories/T_Suppressor5_NRM.uasset" 446
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/Accessories/T_Suppressor5_M_MSK.uasset" 447
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/Accessories/T_Suppressor5_ALB.uasset" 448
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Materials/Accessories/M_Suppressor5.uasset" 449
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Meshes/Accessories/SM_Suppressor5.uasset" 450
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 451
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 452
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/Bullet_A.uasset" 453
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Anim-Blueprints/AK74u_ABP.uasset" 454
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire_ST06.uasset" 455
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire_ST05.uasset" 456
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire_ST04.uasset" 457
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire_ST03.uasset" 458
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire_ST02.uasset" 459
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire_ST01.uasset" 460
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire06.uasset" 461
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire05.uasset" 462
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire04.uasset" 463
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire03.uasset" 464
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire02.uasset" 465
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire01.uasset" 466
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/RifleB_Fire_Cue.uasset" 467
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/PickUp_BaseV2/Weapone1Slot.uasset" 468
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/PickUp_BaseV1/PickUp_WeaponeBase_BP.uasset" 469
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_N_Land_Heavy_Additive.uasset" 470
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/Montage/ALS_N_Land_Heavy_Additive_Montage.uasset" 471
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Blueprints/Character_BP.uasset" 472
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Server/Blueprints/Create_PlayersInfo_HUD.uasset" 473
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Textures/Point.uasset" 474
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/HUD/Player_HUD.uasset" 475
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Blueprints/Controller_BP.uasset" 476
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Server/Blueprints/myGameMode_Server.uasset" 477
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/Ammunition/T_45ap_NRM.uasset" 478
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/Ammunition/T_45ap_M_MSK.uasset" 479
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/Ammunition/T_45ap_ALB.uasset" 480
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Materials/Ammunition/M_45ap.uasset" 481
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Meshes/Ammunition/SM_Shell_45ap_Empty.uasset" 482
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Emitters/P_1911_ShellEject.uasset" 483
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/1911/T_1911_Modern_M_MSK.uasset" 484
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/1911/T_1911_Classic_NRM.uasset" 485
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/1911/T_1911_Classic_ALB.uasset" 486
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Materials/1911/1911_M.uasset" 487
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Meshes/1911/1911_Skeleton.uasset" 488
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Meshes/1911/1911_Mesh.uasset" 489
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Sound/1911SU.uasset" 490
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Sound/1911.uasset" 491
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 308
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Physics/Part2_PHY.uasset" 309
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Physics/Part1_PHY.uasset" 310
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Physics/Head_PHY.uasset" 311
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Physics/Body_PHY.uasset" 312
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 313
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Textures/T_UE4Logo_N.uasset" 314
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Textures/T_UE4Logo_Mask.uasset" 315
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Textures/T_ML_Rubber_Blue_01_N.uasset" 316
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Textures/T_ML_Rubber_Blue_01_D.uasset" 317
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Textures/T_ML_Aluminum01_N.uasset" 318
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Textures/T_ML_Aluminum01.uasset" 319
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Textures/T_Male_N.uasset" 320
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Textures/T_Male_Mask.uasset" 321
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 322
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 323
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 324
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Materials/ML_SoftMetal_UE4.uasset" 325
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Materials/ML_Plastic_Shiny_Beige_LOGO.uasset" 326
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Materials/ML_Plastic_Shiny_Beige.uasset" 327
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Materials/ML_GlossyBlack_Latex_UE4.uasset" 328
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Materials/M_Male_Body.uasset" 329
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Materials/M_UE4Man_ChestLogo.uasset" 330
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Mesh/SK_Mannequin.uasset" 331
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 332
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 333
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 334
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 335
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 336
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 337
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 338
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 339
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 340
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 341
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 342
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Server/Maps/Server_Map_BuiltData.uasset" 343
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Emitters/Ammunition/Textures/T_762x39_NRM.uasset" 344
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Emitters/Ammunition/Textures/T_762x39_ALB.uasset" 345
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Emitters/Ammunition/Textures/T_762x39_M_MSK.uasset" 346
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/Patterns/T_Chochip_Pattern.uasset" 347
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/74U/T_KA74U_NRM.uasset" 348
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/74U/T_KA74U_M_MSK.uasset" 349
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/74U/T_KA74U_ALB.uasset" 350
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Materials/Master_Material/M_Weapon_Master_USE.uasset" 351
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Emitters/Ammunition/Materials/M_762x39.uasset" 352
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Emitters/Ammunition/Mesh/SM_762x39_Empty.uasset" 353
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Textures/T_Smoke_SubUV_2x2_ALB.uasset" 354
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Materials/M_Smoke_MASTER.uasset" 355
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Emitters/P_AK74u_ShellEject.uasset" 356
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Textures/T_Detailed_FMP.uasset" 357
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Textures/T_Detailed_and_Dense_FMP.uasset" 358
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Textures/T_CleanSmoke_ALB.uasset" 359
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Materials/M_Smoke_FlowMap_MASTER.uasset" 360
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Materials/M_Smoke_FlowMap_01.uasset" 361
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Textures/T_Muzzleflash_01_ALB.uasset" 362
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Textures/T_Muzzle_Warp_FMP.uasset" 363
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Materials/M_Muzzleflash_MASTER.uasset" 364
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Materials/M_Muzzleflash_01.uasset" 365
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 366
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 367
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Materials/M_Spark.uasset" 368
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Emitters/P_AK74_Muzzleflash.uasset" 369
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/WeaponeType1_E.uasset" 370
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Test_Content/Debugging_Camera.uasset" 371
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Meshes/74U/AK74U_Physics.uasset" 372
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/WeaponeBase.uasset" 373
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Meshes/74U/AK74U_Skeleton.uasset" 374
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Anim-Blueprints/AK74u_ABP.uasset" 375
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/BPI/Controller_BPI.uasset" 376
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Emitters/P_SU_Rifle_Muzzleflash.uasset" 377
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Emitters/P_AK74u_Muzzleflash.uasset" 378
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Materials/74U/AK74U_M.uasset" 379
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Meshes/74U/AK74U_Mesh.uasset" 380
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/Accessories/T_Suppressor5_NRM.uasset" 381
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/Accessories/T_Suppressor5_M_MSK.uasset" 382
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/Accessories/T_Suppressor5_ALB.uasset" 383
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Materials/Accessories/M_Suppressor5.uasset" 384
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Meshes/Accessories/SM_Suppressor5.uasset" 385
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 386
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 387
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/Bullet_A.uasset" 388
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Sound/ak_su.uasset" 389
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire_ST06.uasset" 390
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire_ST05.uasset" 391
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire_ST04.uasset" 392
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire_ST03.uasset" 393
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire_ST02.uasset" 394
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire_ST01.uasset" 395
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire06.uasset" 396
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire05.uasset" 397
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire04.uasset" 398
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire03.uasset" 399
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire02.uasset" 400
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/Wavs/RifleB_Fire01.uasset" 401
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Rifle/RifleB_Fire_Cue.uasset" 402
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/PickUp_BaseV2/Weapone1Slot.uasset" 403
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 404
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/BPI/Charcter_BPI.uasset" 405
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/PickUp_BaseV1/PickUp_BP.uasset" 406
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/BPI/PickUp_BPI.uasset" 407
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/PickUp_BaseV1/PickUp_WeaponeBase_BP.uasset" 408
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Meshes/1911/1911_Physics.uasset" 409
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Meshes/1911/1911_Skeleton.uasset" 410
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/1911/T_1911_Modern_M_MSK.uasset" 411
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/1911/T_1911_Classic_NRM.uasset" 412
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/1911/T_1911_Classic_ALB.uasset" 413
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Materials/1911/1911_M.uasset" 414
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Meshes/1911/1911_Mesh.uasset" 415
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/M1911.uasset" 416
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/AK74u.uasset" 417
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/BPI/Anim_BPI.uasset" 418
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 419
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 420
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/Concrete_Walk_05.uasset" 421
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/Concrete_Walk_04.uasset" 422
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/Concrete_Walk_03.uasset" 423
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/Concrete_Walk_02.uasset" 424
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/Concrete_Walk_01.uasset" 425
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/FootStepWalk.uasset" 426
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_CLF_Walk_F.uasset" 427
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_CLF_Walk_B.uasset" 428
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_CLF_WalkPose.uasset" 429
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_CLF_Walk_R.uasset" 430
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_CLF_Walk_L.uasset" 431
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/BlendSpace/Idle_Crouch.uasset" 432
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Base/ThirdPersonJump_Loop.uasset" 433
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Base/ThirdPersonJump_Start.uasset" 434
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Base/ThirdPerson_Jump.uasset" 435
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/Concrete_Run_04.uasset" 436
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/Concrete_Run_03.uasset" 437
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/Concrete_Run_02.uasset" 438
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/Concrete_Run_01.uasset" 439
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/FootSteps/FootStepRun.uasset" 440
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_N_Run_B.uasset" 441
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_N_Run_F.uasset" 442
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_N_Run_LF.uasset" 443
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_N_Run_RF.uasset" 444
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_N_SecondaryMotion.uasset" 445
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_N_Walk_B.uasset" 446
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_N_Walk_F.uasset" 447
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_N_Walk_LF.uasset" 448
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_N_Walk_RF.uasset" 449
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/BlendSpace/Idle_Move.uasset" 450
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Blueprints/Character_CtrlRig.uasset" 451
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Rifle/Locomotion/LS_Calm_Rifle_Pose.uasset" 452
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Rifle/Locomotion/LS_Calm_Rifle_CR_Pose.uasset" 453
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Rifle/Locomotion/LS_AIM_Rifle_Pose.uasset" 454
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Rifle/Locomotion/LS_AIM_Rifle_CR_Pose.uasset" 455
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/LS_AIM_Pistol_CR_Pose.uasset" 456
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/AIM/AIM_LS_CR_U.uasset" 457
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/AIM/AIM_LS_CR_D.uasset" 458
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/AIM/AIM_LS_CR_CC.uasset" 459
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/AIM/AIM_Pistol_CR_LS.uasset" 460
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/Pistol_Sprint_Pose.uasset" 461
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/Pistol_Hit_Aim.uasset" 462
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/Pistol_Hit.uasset" 463
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/Pistol_Crouch_Hit_Aim.uasset" 464
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/Pistol_Crouch_Hit.uasset" 465
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/LS_Calm_Pistol_Pose.uasset" 466
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/LS_Calm_Pistol_CR_Pose.uasset" 467
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Pistol/Locomotion/LS_AIM_Pistol_Pose.uasset" 468
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/Hit_Idle.uasset" 469
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/Crouch_Hit.uasset" 470
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Blueprints/Anim_Blueprints/Character_ABP.uasset" 471
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Blueprints/FC_SpeedAngle.uasset" 472
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/HUD/Players_Informatio_HUD.uasset" 473
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Start/Blueprints/Loading_HUD.uasset" 474
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/HUD/Exit_HUD.uasset" 475
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Server/Blueprints/myGameState.uasset" 476
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/ALS_N_Land_Heavy_Additive.uasset" 477
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Locomotion/Montage/ALS_N_Land_Heavy_Additive_Montage.uasset" 478
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Blueprints/Character_BP.uasset" 479
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Server/Blueprints/Create_PlayersInfo_HUD.uasset" 480
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Textures/Point.uasset" 481
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/HUD/Player_HUD.uasset" 482
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Character/Blueprints/Controller_BP.uasset" 483
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Server/Blueprints/myGameMode_Server.uasset" 484
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Anim-Blueprints/M1911_ABP.uasset" 485
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/Ammunition/T_45ap_NRM.uasset" 486
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/Ammunition/T_45ap_M_MSK.uasset" 487
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Textures/Ammunition/T_45ap_ALB.uasset" 488
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Materials/Ammunition/M_45ap.uasset" 489
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Meshes/Ammunition/SM_Shell_45ap_Empty.uasset" 490
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Particles/Emitters/P_1911_ShellEject.uasset" 491
 "C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/CS/CS_Rifle.uasset" 492
 "C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/Ammunition/Ammunition_Bace_BP.uasset" 493
 "C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/Ammunition/Suppressor_BP.uasset" 494
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Anim-Blueprints/M1911_ABP.uasset" 495
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/PickUp_BaseV1/Weapone_Childs/PickUp_M1911_BP.uasset" 496
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Rifle/Rifle_Shoot.uasset" 497
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Rifle/Montage/Rifle_Shoot_Montage.uasset" 498
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/PickUp_BaseV1/Weapone_Childs/PickUp_AK74u_BP.uasset" 499
-"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Server/Maps/Server_Map.umap" 500
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Sound/1911SU.uasset" 495
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Audio/Sound/1911.uasset" 496
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/PickUp_BaseV1/Weapone_Childs/PickUp_M1911_BP.uasset" 497
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Rifle/Rifle_Shoot.uasset" 498
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Rifle/Montage/Rifle_Shoot_Montage.uasset" 499
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Blueprints/Weapons/Blueprints/PickUp_BaseV1/Weapone_Childs/PickUp_AK74u_BP.uasset" 500
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Server/Maps/Server_Map.umap" 501
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Start/Maps/Start_Map_BuiltData.uasset" 502
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Start/Blueprints/Camera_Start_Pawn.uasset" 503
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Start/Blueprints/myGameMode_Start.uasset" 504
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Start/StartSequence.uasset" 505
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Server/Blueprints/Create_SessionInfo_HUD.uasset" 506
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Start/Blueprints/Start_HUD.uasset" 507
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Player/Animations/Character/Rifle/GunDown.uasset" 508
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Start/Blueprints/Character_Start_PAWN.uasset" 509
+"C:/Users/ValeraPC/Desktop/myProject 4.0/Content/Start/Maps/Start_Map.umap" 510
