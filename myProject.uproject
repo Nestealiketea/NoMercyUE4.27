@@ -94,6 +94,10 @@
 		{
 			"Name": "FullBodyIK",
 			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
