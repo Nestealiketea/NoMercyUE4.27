@@ -97,7 +97,7 @@
 		},
 		{
 			"Name": "AGRPRO",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/c4f13f7fc2c048d8ad4985ecfbf4f6c6"
 		},
 		{
@@ -114,6 +114,10 @@
 			"Name": "AssetsCleaner",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3caab7c6e81f449296989122c043ae21"
+		},
+		{
+			"Name": "ActorPalette",
+			"Enabled": true
 		}
 	]
 }
